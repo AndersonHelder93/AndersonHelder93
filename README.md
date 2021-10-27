@@ -1,7 +1,7 @@
 ### Hi there, I'm Anderson Helder👋
 
 
-- - 🔭 I’m currently working as help-desk technician [@pactomais](https://pactomais.com.br)
+- 🔭 I’m currently working as help-desk technician [@pactomais](https://pactomais.com.br)
 - 🌱 I'm a systems analysis and development student
 <img src="https://c.tenor.com/l6xMWS1HEtIAAAAi/loading-load.gif" alt="loading" width="150px"/> 
 
