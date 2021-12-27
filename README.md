@@ -2,8 +2,8 @@
 
 
 - 🔭 I'm currently working as a full stack developer [@pactomais](https://pactomais.com.br)
-- 🌱 I'm a systems analysis and development student
-<img src="https://c.tenor.com/l6xMWS1HEtIAAAAi/loading-load.gif" alt="loading" width="150px"/> 
+- 🌱 Graduated in Systems Analysis and Development
+<img src="https://media0.giphy.com/media/QytPgSOH9QoYFKBTbh/giphy.gif?cid=6c09b9529r2llq89ie8bbo7psgwbvu47f5pl85fz88ju9zsh&rid=giphy.gif&ct=s" alt="loading" width="85px"/> 
 
 
 - 👯 I'm looking to collaborate on real projects applying the knowledge acquired in college and learning new experiences
