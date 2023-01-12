@@ -11,7 +11,7 @@
 - ⚡ Curiosity: dream of working building applications since my adolescence
 
 
-![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=AndersonHelder93&show_icons=true&theme=merko)
+<!--![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=AndersonHelder93&show_icons=true&theme=merko)-->
 
 [![Meu perfil Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/anderson-helder-barbosa-da-silva-212962192)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonHelder93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
