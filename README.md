@@ -1,7 +1,7 @@
 ### Hi there, I'm Anderson Helder👋
 
 
-- 🔭 I'm currently working as a full stack developer [@pactomais](https://pactomais.com.br)
+- 🔭 I work as a java backend developer and requirements analyst 
 - 🌱 Graduated in Systems Analysis and Development
 <img src="https://media0.giphy.com/media/QytPgSOH9QoYFKBTbh/giphy.gif?cid=6c09b9529r2llq89ie8bbo7psgwbvu47f5pl85fz88ju9zsh&rid=giphy.gif&ct=s" alt="loading" width="85px"/> 
 
