@@ -7,7 +7,7 @@
 
 
 - 👯 I'm looking to collaborate on real projects applying the knowledge acquired in college and learning new experiences
-- 💬 Ask me about [Git, Java, SpringBoot, Php, Laravel, Html, CSS]
+- 💬 Ask me about [Git, Java, SpringBoot, Angular, Php, Laravel, Html, CSS]
 - ⚡ Curiosity: dream of working building applications since my adolescence
 
 
